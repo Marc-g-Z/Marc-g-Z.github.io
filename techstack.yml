@@ -1,7 +1,8 @@
 repo_name: Marc-g-Z/Marc-g-Z.github.io
 report_id: eba8a0e1f2be6fae624c69c29b321d6b
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T15:45:48+00:00'
+timestamp: '2024-01-04T14:58:41+00:00'
 requested_by: Marc-g-Z
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Marc-g-Z/Marc-g-Z.github.io
   detection_source: Repo Metadata
 - name: Jupyter
   description: Multi-language interactive computing environments.
@@ -25,4 +27,5 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/Marc-g-Z/Marc-g-Z.github.io
   detection_source: Repo Metadata
